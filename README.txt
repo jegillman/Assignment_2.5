@@ -1,0 +1,1 @@
+The goal of this assignment is to teach us version control system using GIT.
